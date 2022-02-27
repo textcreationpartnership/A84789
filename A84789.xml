@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here are several queries put forth in print for all, or any of you whose names are here under written, (and likewise for them at Cambridge and Oxford, ... or any other of your societies that will answer the same) and return your answer in print, to the view and satisfaction of many people; who are now questioning whether any of all your practises do proceed from the true foundation. For Robert Gell. Doctor of Divinity so called, who formerly preached to the Society of Astrologers; as witness his book called Stella nova. William Lilly. Student in astrology. John Booker. Student in astrology and physick. Richard Sanders. Student in the divine, laudible and celestial sciences, as he calls it. Vincent Wing. George Wharton. Or any other of the astrologers to answer. And likewise for Francis Prujan. John King. Charles Scarbrough. George Bates. Lawrence Wright. Jonathan Goddard. And Richard Barker. Doctors of Physick; and to the rest of that society to answer. / These queries are put in print by me, Henry Clark.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84789</idno>
+            <idno type="STC">Wing F1839</idno>
+            <idno type="STC">Thomason E899_5</idno>
+            <idno type="STC">ESTC R202174</idno>
+            <idno type="EEBO-CITATION">99862567</idno>
+            <idno type="PROQUEST">99862567</idno>
+            <idno type="VID">114730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E899[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here are several queries put forth in print for all, or any of you whose names are here under written, (and likewise for them at Cambridge and Oxford, ... or any other of your societies that will answer the same) and return your answer in print, to the view and satisfaction of many people; who are now questioning whether any of all your practises do proceed from the true foundation. For Robert Gell. Doctor of Divinity so called, who formerly preached to the Society of Astrologers; as witness his book called Stella nova. William Lilly. Student in astrology. John Booker. Student in astrology and physick. Richard Sanders. Student in the divine, laudible and celestial sciences, as he calls it. Vincent Wing. George Wharton. Or any other of the astrologers to answer. And likewise for Francis Prujan. John King. Charles Scarbrough. George Bates. Lawrence Wright. Jonathan Goddard. And Richard Barker. Doctors of Physick; and to the rest of that society to answer. / These queries are put in print by me, Henry Clark.</title>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Clark, Henry, 17th cent.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, and are to be sold at his shop, at the sign of the Black-spread-Eagle, at the west-end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.F., i.e. George Fox.</note>
+                  <note>The words "Doctor of Divinity .. society to answer." are connected with a complex system of brackets.</note>
+                  <note>Annotation on Thomason copy: "Jan: 10th"; the 7 in the imprint date has been crossed out and replaced with a "6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114730:1" rendition="simple:additions"/>
+            <p>Here are ſeveral QUERIES Put forth in Print for all, or any of you whoſe names are here under written, (And likewiſe for them at <hi>Cambridge</hi> and <hi>Oxford,</hi> who are there teaching and training of ſuch up to practice ſuch things as you your ſelves are now acting in, or any other of your Societies that will Anſwer the ſame) and return your Anſwer in Print, to the view and ſatisfaction of many people; who are now que<g ref="char:EOLhyphen"/>ſtioning whether any of all your practiſes do proceed from the true Foundation.</p>
+            <p>For
+<list>
+                  <item>
+                     <hi>Robert Gell.</hi> Doctor of Divinity ſo called, who formerly Preached to the Society of Aſtrologers; as witneſs his Book called <hi>Stella Nova.</hi>
+                  </item>
+                  <item>
+                     <hi>William Lilly.</hi> Student in Aſtrology.</item>
+                  <item>
+                     <hi>John Booker.</hi> Student in Aſtrology and Phyſick.</item>
+                  <item>
+                     <hi>Richard Sanders.</hi> Student in the Divine, Laudible and Ce<g ref="char:EOLhyphen"/>leſtial Sciences, as he calls it.</item>
+                  <item>
+                     <hi>Vincent Wing.</hi> Or any other of the Aſtrologers to Anſwer.</item>
+                  <item>
+                     <hi>George Wharton.</hi> Or any other of the Aſtrologers to Anſwer.</item>
+               </list>
+            </p>
+            <p>And likewiſe for
+<list>
+                  <item>
+                     <hi>Francis Prujan.</hi> Doctors of Phyſick; And to the reſt of that Society to Anſwer.</item>
+                  <item>
+                     <hi>John King.</hi> Doctors of Phyſick; And to the reſt of that Society to Anſwer.</item>
+                  <item>
+                     <hi>Charles Scarbrough.</hi> Doctors of Phyſick; And to the reſt of that Society to Anſwer.</item>
+                  <item>
+                     <hi>George Bates.</hi> Doctors of Phyſick; And to the reſt of that Society to Anſwer.</item>
+                  <item>
+                     <hi>Lawrence Wright.</hi> Doctors of Phyſick; And to the reſt of that Society to Anſwer.</item>
+                  <item>
+                     <hi>Jonathan Goddard.</hi> Doctors of Phyſick; And to the reſt of that Society to Anſwer.</item>
+                  <item>And <hi>Richard Barker.</hi>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <p>A ſcorner loveth not one that reproveth him, neither will he go un<g ref="char:EOLhyphen"/>to the wiſe,</p>
+               <bibl>Prov. 15.12,</bibl>
+            </q>
+            <q>
+               <p>He that Anſwereth a matter before he heareth it, it is a folly and ſhame unto him,</p>
+               <bibl>Prov. 18 13.</bibl>
+            </q>
+            <q>
+               <p>The way of life is above the wiſe; But he that handleth the matter wiſely, ſhall find good,</p>
+               <bibl>Prov. 15.24. and 16.20.</bibl>
+            </q>
+            <p>Theſe Queries are put in Print by me, <hi>Henry Clark.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> and are to be ſold at his Shop, at the Sign of the Black-ſpread-<hi>Eagle,</hi> at the Weſt-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of <hi>Pauls,</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:114730:2"/>
+            <head>Querie I.</head>
+            <p>WHat is the Ground of the knowledge of God?</p>
+            <p n="2">2. Can you caſt a Scheam, or a figure, to tell what ſhall be in the year, which is a hundred years to come? And if you ſay you can, that be Aſtrolo<g ref="char:EOLhyphen"/>gers, Star-gazers, Monethly Prognoſticators; how was it that the wiſe men of <hi>AEgypt,</hi> and the Magicians, could not tell <hi>Pharaohs</hi> Dream? Nor could not tell of the Fa<g ref="char:EOLhyphen"/>min that was to come in the years after, which <hi>Joſeph,</hi> which had the Spirit of the Lord, did ſee, beyond all the Magicians and wiſe men of <hi>Pharaoh?</hi>
+            </p>
+            <p n="3">3. Is the change of the times known by Planits and Stars, Sun, and Moon? Or is the times known with that which lets ſee the Father, and the time to be in his hand, ſeeing that the wiſe men of <hi>AEgypt</hi> knew not the al<g ref="char:EOLhyphen"/>tering and changing of the times and days, and years, that was, and is in the Fathers hand? And whether all this wiſdom be not below, that fees no farther then the wiſe men of <hi>AEgypt?</hi> And whether all this is not, and was not againſt the truth, yea or nay; and ſo cannot ſee and diſcern the times in the Fathers hand, and hath not the wiſdom which is from above? Is this ſo, yea or nay?</p>
+            <p n="4">4. Is not God the changer of times &amp; ſeaſons? and doth not God change the times &amp; ſeaſons, which the Aftrologers and Magicians knew not, in the time of <hi>Daniel;</hi> neither could they tell <hi>Nebuchadnezars</hi> Dream; not the into pre<g ref="char:EOLhyphen"/>tation
+<pb n="3" facs="tcp:114730:2"/>thereof, nor the changing and altering of his King<g ref="char:EOLhyphen"/>dom: But <hi>Daniel,</hi> who was a Captive among them, with the Spirit of the Lord; who had the Spirit of the Lord, who had the thing revealed to him: <hi>And again Nebuchadne<g ref="char:EOLhyphen"/>zar dreamed a Dream, who told the Dream to the wiſe men of Babylon, the Magicians, Soothſayers, Aſtrologers, and they could not tell the Interpretation of the Dream; but Daniel, the man of God, did to him declare it:</hi> Now what differ you from theſe Aſtrologers and Soothſayers which knew not that the moſt High reigned, the moſt High ruled in the Kingdom of men; neither <hi>Nebuchad<g ref="char:EOLhyphen"/>nezar,</hi> nor his Aſtrologers, Magicians, nor Sooth-ſay<g ref="char:EOLhyphen"/>ers?</p>
+            <p n="5">5. Doth not the Magicians and Aſtrologers, and Sooth-ſayers, all proceed from one root? and what is that root, ſeeing they that were in this root, knew not the Dream of <hi>Nebuchadnezar,,</hi> nor the change of his Kingdom; and knew not that the moſt High ruled in the Kingdom of men, they nor <hi>Nebuchadnezar;</hi> therefore they that are not come to this knowledge, that the Kingdom of the moſt High ruleth in the Kingdom of men, conſider in what knowledge they and you be in, that be in their ſteps?</p>
+            <p n="6">6. And whether your knowledge, which be Aſtrolo<g ref="char:EOLhyphen"/>gers, Soothſayers, Star-gazers, wiſe men, Magicians; whether your wiſdom doth proceed from any other root but that they were in, ſeeing in theſe days little more is ſeen then was ſeen in them, in the days of <hi>Nebuchadne<g ref="char:EOLhyphen"/>zar,</hi> and in the days of <hi>Pharaoh?</hi>
+            </p>
+            <p n="7">7. And whether there is not now in theſe days, people trained up from their youth, who weary themſelves in the multitude of Aſtrologers, Star-gazers, Monethly Prognoſticators; and whether the Inchantment, and Witchcraft, Sorcery, be not all proceeding from the ſame root; and whether people doth not under this ſhelter, and after this hearken, which to them becomes a covering?
+<pb n="4" facs="tcp:114730:3"/>And whether this doth not keep in the ſeparation from God, in the body of the Elimentary life of the Natu<g ref="char:EOLhyphen"/>ral, whether the Counſels of the Heathen doth not carry after the Aſtrologers and Star-gazers; and whether Star-gazers doth not ariſe out of the ſame ground; and whe<g ref="char:EOLhyphen"/>ther Philoſophy doth not beguil.</p>
+            <p n="8">8. And whether the beggerly Elements without, hath not an Element within? And whether the ground of the Planits within, be not that which ecchoes to the Planets without?</p>
+            <p n="9">9. Whether is not the Obſerver of times, the Star-ga<g ref="char:EOLhyphen"/>zers, the Prognoſticators, in that which ſees not time in the Fathers hand; be not darkened in the Elementaries? And whether or no the wiſdom of God doth not ſee the overthrowing of Kingdoms, and the changing of times, and the Kingdom where there is no end? And whether or no this is not a Dream to all the Magicians upon the earth, Aſtrologers upon the earth, Monethly Prognoſti<g ref="char:EOLhyphen"/>cators, Obſervers of times? And whether or no they that do not ſee this Dream, be not out of the wiſdom of God? And whether or no the wiſdom of God do not comprehend the Kingdom of the world, which hath an end? and whether or no thoſe Kingdoms reign, and are ſet up which hath an end, which ſeeth not the Kingdom which hath no end?</p>
+            <p n="10">10. Whether or no hath not all the Aſtrologers, Sooth-ſayers, their ſhelter under this Rule from whence this ſprings? And whether or no this be not the power of darkneſs? if you ſay this be not, what is the power of darkneſs.</p>
+            <p n="11">11. What is the ground of a Dream, and its cauſe? And what is it that ſubdues the ground of the Dream, and its cauſe in the man? Or is the ground of the dream to be ſubdued in the man?</p>
+            <p n="12">12. Whether or no doth not Witchcraft, Nigromancy,
+<pb n="5" facs="tcp:114730:3"/>Familiar Spirits, riſe from the ſame ground as the Star-gazers, Prognoſticators, Aſtrologers, Soothſayers; whe<g ref="char:EOLhyphen"/>ther theſe do not all proceed from one Root?</p>
+            <p n="13">13. And from whence, and from whom do you give your account; as number of years? whether or no you have it not from Pope, or from ſome other Authour of Books? and do you not obſerve the Popes order and rule which he hath given forth, who obſerve Saints days, and was not he the firſt Authour of them?</p>
+            <p n="14">14. And are not they that be in the fleſh of Chriſt, out of the body of Elementary, above the ſtrange fleſh; and what is that?</p>
+            <p n="15">15. Was not the AEgyptian Magicians, and wiſe men, in darkneſs? and had they not their power from the De<g ref="char:EOLhyphen"/>vil? And wherein doth it differ in our days, and in what?</p>
+            <p n="16">16. What is it that gives to comprehend the world? can any ſee the Stars, the Moon, and the Sun, but with that which was before they was?</p>
+            <p n="17">17. What is the ground of all infirmity and diſeaſe?</p>
+            <p n="18">18. What is the ground of the knwoledge that periſh<g ref="char:EOLhyphen"/>eth? and from whence hath it its root? and what was the beginning of its ground?</p>
+            <p n="19">19. Doth not the Stars ſtand and obey the Command of God, and ſtand in the Covenant; is not man, which is out of that by which he was made, out of Covenant? is it not he which is out of Covenant; and is he in that true knowledge of them that is out of the Covenant, that ſaith the Stars are unfortunate, and calls them by ſuch a houſe, when there is no ſuch thing? is not this jugulation, and is not he unfortunate that is out of Covenant, that is out of the light, that ſaith the Stars are unfortunate, which are kept in the Covenant; and is not all them, and that which is out of the Covenant, out of the knowledge of the Creation in the darkneſs, in the earthly ſenſual, deviliſh wiſdom, in
+<pb n="6" facs="tcp:114730:4"/>the diſeaſed are Eſtunfortunate: Muſt not all this body of Elementary be condemned?</p>
+            <p n="20">20. And whether or no have you the wiſdom of God, what is the beginning of it, and what is it; ſeeing there is an eye it is hid from, living; and ſeeing it was hid from <hi>Nebuchadnezar,</hi> and all his wiſe men, Star-gazers, and Magicians; and hid from <hi>Pharaoh,</hi> and his Magicians, and his wiſe men; but revealed to them that feared God; and is not all other wiſedom that is ſenſual, earthly, and deviliſh, where lodgeth the Conjuration and Witchcraft to be overthrown, and confounded, yea, or nay? An<g ref="char:EOLhyphen"/>ſwer.</p>
+            <p n="21">21. And you that are Aſtrologers, and in theſe things before mentioned, from whence have you learned it; and received the wiſdom and knowledge of the Stars, is it not from Books and Authors; if ſo, muſt you not all looſe it, as they did which came to own the truth, which burned their Books?</p>
+            <p n="22">22. All you that be Phyſicians and Doctors, have you the wiſdome by which all things was made? have you the knowledge of the virtue of all the Creatures in the Creation: Miniſter you Phyſick by the courſe and order of the Stars and Planets? muſt he ground of the Planet in the man be removed, before the ground of the Diſeaſe be removed, or before he come to the glory of the firſt body?</p>
+            <p n="23">23. And what is the glory of the firſt body? and what is it that leads nature out of its courſe? and what is it that leads nature into its courſe? and what is it that ſets the whole courſe of nature on fire?</p>
+            <p n="24">24. And what is the ground of Mother, Stone, and Collick? and what is the cauſe of them? and whether or no they do proceed from one Root? and how they do differ in their operation, and working? and what is the door that lets them in, that they come to be bred?</p>
+            <p n="25">25. And what is the ground, and the firſt entrance
+<pb n="7" facs="tcp:114730:4"/>of the wiſedom below, that is earthly, and ſenſual, and deviliſh? and what is the ground of the knowledg that doth corrupt, and leadeth into the error? and from whence had theſe their ground and root?</p>
+            <p n="26">26. Was not all the Magicians, Aſtrologers, Monthly Prognoſticators in the old time, out of the wiſdom of God; if you ſay yea, and what wiſdom are ye in now? whether there be not the Charmer in the wiſdom, and Inchanter in the wiſdom, and Sorcery in the wiſdom, and the Witchcraft and Soothſayer in the wiſdom, and the Nigromancy? and whether the root of this is not turned from, who comes into the wiſdom of God, and ſo over<g ref="char:EOLhyphen"/>throws Root and Branch?</p>
+            <p n="27">27. And what Rule have you to call them, by the names of Houſes, among all them that be in the wiſdom of God? and whether this is not a thing flown up into the brain, which is called Magick Art; let that in your conſciences Anſwer, which witneſſeth againſt it: An<g ref="char:EOLhyphen"/>ſwer theſe Queries, I have many things to write unto you, but I ſhall not with high things trouble you yet; but theſe is as to children ſtumbling about Letters?</p>
+            <p n="28">28. What is that which muſt be ſhaken, before that which cannot be ſhaken do appear?</p>
+            <p n="29">29. And doth not the Elementary body, and Elemen<g ref="char:EOLhyphen"/>tary life, ſtain the Virgin? and what is the Virgin that bears the ſeed? and what is the <hi>Hagar</hi> that bears the Son? and whether or no is not this ſtate known before the Vir<g ref="char:EOLhyphen"/>gin? and whether or no is not this known before <hi>Sarah,</hi> if that any of you be <hi>Sarah</hi> declare? if that any of you be the ſon born of <hi>Sarah,</hi> let him ſpeak on and declare?</p>
+            <p n="30">30. And what is the <hi>Abraham;</hi> hath he any Relation Kindred or Native? doth the Relation, Native or Kin<g ref="char:EOLhyphen"/>dred hold up Idolatry? is the <hi>Abraham</hi> to come out of this? are any of faith but what are of <hi>Abraham?</hi> are not all who are of faith of <hi>Abraham?</hi> what is <hi>Abraham?</hi>
+               <pb n="8" facs="tcp:114730:5"/>and what is that which he comes out of? hath <hi>Abraham</hi> a foot of ground? had he ſo much as to ſet his foot on?</p>
+            <p n="31">31. Was Chriſt of the ſeed of this <hi>Abraham,</hi> which had no place to lay his head?</p>
+            <p n="32">32. Is the wiſdom, of the fleſh from this? or is <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> ſhut out from the wiſdom of the fleſh? what is the fleſh that the wiſdom ariſeth out of, and the fruit of it? from whence was it?</p>
+            <p n="33">33. What is the fleſh of Chriſt, and his bone? what is the fleſh, who joins to it becomes an Harlot? how ſtands a Virgin from this? and by what? and in what is ſhe preſerved? is there in the Virgins mouth guile? and what is it that gives to ſee the fleſh; which, who joins to it becomes an Harlot?</p>
+            <p n="34">34. What is the firſt principle of that, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leads to the Virgins life?</p>
+            <p n="35">35. Is any <hi>Abraham,</hi> or of <hi>Abraham</hi> in this age, in this our days, that ſtands in Relation or Kindred, or hath a foot of ground?</p>
+            <p n="36">36. What are the Foxes that have the holes? and what are the fowls of the air that have their neſts? and whether theſe habitations be not upon the earth, and in the earth; and with what are they ſeen? And whether theſe may not profeſs <hi>Abraham</hi> and faith, and a Chriſt, but be joined to the fleſh, and ſo become the Harlot?</p>
+            <p n="37">37. And is this ſhe that gives her Cup, that makes Na<g ref="char:EOLhyphen"/>tions drunk that they ſtagger, ſo doth not <hi>Abraham</hi> come out of this; And is this it that drinks the Cup of the indignation of the wrath of the Almighty? and is this her that is the Mother of the Harlot, that brings them all forth?</p>
+            <p n="38">38. What is the ſtrange fleſh, and who is joined to it becomes an Harlot? and what is the fleſh of Chriſt; and what are they that this fleſh brings forth, and this Mother brings forth, and whether that all the drunkenneſs be not in it: Now give a plain Anſwer in ſhort, full, to the things which I write?</p>
+            <pb n="9" facs="tcp:114730:5"/>
+            <p n="39">39. Doth not the Scripture ſay Chriſt is all and in all? and is not Chriſt the light? and if he be all, and in all, is not Chriſt the light, all and in all?</p>
+            <p n="40">40. How is Chriſt the Heir of all things, if he doth not enlighten every man that cometh into the world? how ſhould all beleeve if every man be not enlighted? and is eve<g ref="char:EOLhyphen"/>ry man to beleeve becauſe he is enlightned? and is every man condemned becauſe he doth not beleeve in the light which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h enlightned him?</p>
+            <p n="41">41. Whether or no is not the firſt principle of truth, the light; and whether or no all T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ach<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs that be out of this light, which lighteth every man that cometh into the world be not out of the ſpirit, in the ſpirits ſeducing? and whe<g ref="char:EOLhyphen"/>ther or no they have not th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Doctrine of Devils?</p>
+            <p n="42">42. And is not all Aſtrologers, Star-gazers, Monethly Prognoſticators, Sorcerers and Magicians, all from the light which lighteth every man that cometh into the world? whe<g ref="char:EOLhyphen"/>ther or no the light doth not condemn its ground from whence it comes; and what is the ground from whence all this before mentioned ſprings?</p>
+            <p n="43">43. Doth any ſee the Reign of Chriſt, but with the light which Chriſt hath enlightned them withal; and are not all they that be from the light from the Reign of Chriſt, and ſees not him the ſame, to day, yeſte day, and for ever: But they are under the Reign of the Prince of the Air, though they may profeſs all Scripture, and own not the light, which lighteth every man that cometh into the world?</p>
+            <p n="44">44. Out of what part is it that the Dream ariſeth out of a man; and can that part out of which the Dream ariſeth, know the Dream, yea or nay?</p>
+            <p n="45">45. And is not Philoſophy, Aſtrologers, the Star-gazers, the Monethly Prognoſticators, have not they their riſe from that part which the Dream ariſeth out of; ſeeing that they could not tell the Dream of <hi>Nebuchadnezar,</hi> nor the Dream of <hi>Pharaoh;</hi> therefore is there not that which is beyond a Dream, which is out of that part which the Dream ariſeth cut of, which ſhews it?</p>
+            <pb n="10" facs="tcp:114730:6"/>
+            <p n="46">46. And in what part ſtands the four Elements; can they diſcern its ground, or can the Elementary diſcern by which they ſtand?</p>
+            <p n="47">47. Are not all they in the Witchcraft, and Inchanting, that be out of that by which the Stars, the Sun, the Moon ſtands, and are ordered, and doth obey?</p>
+            <p n="48">48. And are you in that, by which the Stars, and the Moon and the Sun was made, which was before it was made; anſwer in plain words, and be ready to give a Reaſon of your hope, not with high phraſes and ſtrange expreſſions, but in plain words, in Engliſh, that every one may read you, and ſo the people may be ſatisfied?</p>
+            <p n="49">49. Do you know the glory of the firſt body; what is it in its glory; what is it that deſaceth it; and from whence had that its riſe?</p>
+            <p n="50">50. What is the earth that is to be rejected, that bears the briars and thorns? and what is the new earth, in which dwells righteouſneſs; and where are theſe to be ſeen; and with what, or in theſe days, yea, or nay?</p>
+            <p n="51">51. What is the ground of Witchcraft, and Nigromancy; and what is it they riſe out of; and Inchanting, and Sorcery, and Familiar Spirits, whether any of theſe doth deface the glory of the firſt body; whether theſe doth not corrupt, and cauſe the Creation to groan; you that be Doctors, and Phy<g ref="char:EOLhyphen"/>ſicians of the body, anſwer: ſo ſhew the cauſe of infirmity, and its door where it entreth, and what it is that is bred and begotten; and how every thing operateth, and gender<g ref="char:EOLhyphen"/>eth, and bringeth forth its own: Ye that be Phyſicians and Doctors, and Miniſters to the outward, anſwer; and Star-gazers, you Miniſter according to the order of the Planets, you ſay: Now if you have the wiſdom of God, by which all the Creatures was created, then will you ſhew us, and declare the ground, and the cauſe of that which burdneth, and bondageth the Creature, in the ſtate, not redeemed from under the bondage of corruption, under which it groans; Therefore, as I ſaid before, give us in your anſwer, what is
+<pb n="11" facs="tcp:114730:6"/>the door of the entring of this that doth corrupt, which bon<g ref="char:EOLhyphen"/>dageth the Creature; and is not that the cauſe of infirmity?</p>
+            <p n="52">52. Is not this that which is in tranſgreſſion; and are you out of the tranſgreſſion, that takes upon you to act ſuch things? and can any in tranſgreſſion know this, but ſuch as be out of tranſgreſſion, know the door of infirmity, or the glory of the firſt body; give forth you Anſwer in Print, you Doctors, you Phyſicians, that miniſter Phyſick: ye Aſtro<g ref="char:EOLhyphen"/>logers, ye Star-gazers, that gives forth in your Books the number of times, give forth your plain anſwer in Print, to thoſe that hath beheld you formerly to be ſomething to the ſatisfying the ſimple?</p>
+            <p n="53">53. And whether there is not ſomething in all men, that will not receive honour of men, and tells them the honour of the world is but Complement, and it is weariſom, and burthenſome; and if ſo, what is it that it burdens; and whether or no there is not ſuch a principle in man; and whe<g ref="char:EOLhyphen"/>ther or no you are not all toucht <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith? and whether or no that is not of Chriſt, that will not receive honour of man; whether or no you do not ſlight Chriſt, that heed not that; and whether or no any comes to the wiſdom or God, but who comes to own that which receives not honour of man; whether is not all the other the wiſdom of the fleſh?</p>
+            <p n="54">54. Does all the Tongues proceed out of that which is Elementary and natural, or out of that which is the fleſh of Chriſt? Does not the Tongues and Languages all proceed out of the natural; may not all theſe lodge in the natural, and in the Elementary, and not know the fleſh of Chriſt nor the Redemption; yea or nay?</p>
+            <p n="55">55. And is not all Teaching and Learning in Schools, both of Tongues and Languages, to learn Phyſick and other Sci<g ref="char:EOLhyphen"/>ences, or Arts; in and by the Languages, and to learn and to underſtand by them the rules of Religion and Phyſick, or Phyſicians: is not this Latitude natural, and all in the wiſ<g ref="char:EOLhyphen"/>dom below, and not in that wiſdom which preſerves the body, which the Phyſicians ſhould have; nor in that which is
+<pb n="12" facs="tcp:114730:7"/>to rule Religion? Can any know the things of God, by the natural, or by the natural learning; or can any know the wiſdom of God by their natural Languages, or Miniſter Phyſick to the Creatures; yea or nay?</p>
+            <p n="56">56. And hath not the effect of the Schools, <hi>viz. Cam<g ref="char:EOLhyphen"/>bridge</hi> and <hi>Oxford,</hi> more deſtroyed nature then preſerved it, by their natural Arts; and have they not more by their na<g ref="char:EOLhyphen"/>tural Learning and Languages more corrupted Religion then preſerved it? Does not pride and oppreſſion, and covetouſ<g ref="char:EOLhyphen"/>neſs, deſtroy nature, all for the want of the wiſdom of God?</p>
+            <p n="57">57. Does nature preſerve nature, or the Power of God preſerve it; yea or nay?</p>
+            <p n="58">58. How is it that fire and water dwells together in uni<g ref="char:EOLhyphen"/>sy: and earth; and the one quenches not the other, but the fire ſtands ready in the water to ſerve?</p>
+            <p n="59">59. What is the ſeed of the Serpent; and what is the Ser<g ref="char:EOLhyphen"/>pent; and what is the part that he hath his being in, and that his ſeed is received into? and what is the ſeed of <hi>Abraham;</hi> and from whence had the Serpent his beginning and Root? and what off ſpring is he of!</p>
+            <p n="60">60. And what is the ſeed of man? what is the woman that brings forth the ſeed that bruiſeth the Serpents head?</p>
+            <p n="61">61. What is the earth that is rejected, that brings forth briars and thorns; and with what is it ſeen; and where is it ſeen; and where is the earth in which dwelleth righteouſ<g ref="char:EOLhyphen"/>neſs; and with what is it ſeen; and where is it ſeen?</p>
+            <p n="62">62. To burn the Sword of the earth, will it then bear the better graſs?</p>
+            <p n="63">63. Whether that nature doth know any thing of the wiſ<g ref="char:EOLhyphen"/>dom of God which is lifted up; yea or nay?</p>
+            <p n="64">64. Doth not the Star-gazers, the Monethly Prognoſti<g ref="char:EOLhyphen"/>cators, riſe out of the Elementary life, which ſtands in the Elementary ſtars; is not this from the Elementary ground within?</p>
+            <p n="65">65. Doth Dreams, and Changings ariſe from this ground which ſtands in the Elementary Stars and Planets? doth not
+<pb n="13" facs="tcp:114730:7"/>here ariſe the Airy life; doth the ground of the Dream ariſe out of the Elementary; or out of the fleſh of Chriſt: Can you judge of grounds, or deſcern of Centers: Anſwer, or is the fleſh of Chriſt covered from that which the Elemen<g ref="char:EOLhyphen"/>tary hath its being; or the Planets that ſtands in the alterings in the ſigns of the Sun, Moon and Stars, which ſtands in the alterings; is the fleſh of Chriſt hid from this life, hid from this Elementary?</p>
+            <p n="66">66. Doth the Aſtrologer ariſe out of the fleſh of Chriſt; or doth the Dream ariſe out of the natural underſtanding or wiſdom, or knowledge, or comprehenſion, or reaſon, or that which the Planets aſcending to the Stars; or is the fleſh of Chriſt over all this; or is the fleſh of Chriſt hid from all this, and from them that be in it; yea or nay:</p>
+            <p n="67">67. Doth the fleſh of Chriſt comprehend this: doth the fleſh of Chriſt reign over all this Elementary: hath any the Wiſdom of God but who hath Chriſt?</p>
+            <p n="68">68. And what was the wiſdom in all ages in them that were in the Stars but knew not Chriſt, nor knew not the Apoſtles; and what difference was there between their ground, and the ground of their wiſdom, and the wiſdom: are Books the rule for Religion, or Phyſick; or the Spirit of God that gave forth the Scriptures of truth, ſeeing the Devil could get the Scriptures and forms.</p>
+            <p n="69">69. And doth not that, the earth, that acts and rules, but not in the wiſdom of God but out of it, and to ſet up that to rule nature, and to order worſhip, and to order Religi<g ref="char:EOLhyphen"/>on; which hath got the natural Languages, and out of the wiſ<g ref="char:EOLhyphen"/>dom of God, and of truth, and the Spirit the Devil is out of, and abode not in: whether or no here is not a ſetting up that which the Devil abode in: and is it not that which the Na<g ref="char:EOLhyphen"/>tions drink of?</p>
+            <p n="70">70. What is Chriſt: and what is that which was offered, ſeeing the <hi>Jews</hi> offered that which was natural, in their na<g ref="char:EOLhyphen"/>tural ſtate, and knew not Chriſt the everlaſting offering: Chriſt Jeſus that perfected for ever them <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat were ſanctified,
+<pb n="14" facs="tcp:114730:8"/>therefore what was that, and what is the everlaſting offer<g ref="char:EOLhyphen"/>ing that overthrows the <hi>Jews,</hi> and the firſt Prieſthood, and the Heathen both: what is this offering which perfecteth for ever them that are ſanctified: give in the Anſwer: and whether it be known by Letter, or by that which was be<g ref="char:EOLhyphen"/>fore Letter was given forth: or whether ſin ſtands unblot<g ref="char:EOLhyphen"/>ted out in the ſecond Covenant?</p>
+            <p n="72">72. Doth all the Tongues and Languages proceed out of that which is to be confounded, out of the natural, yea or nay: and did all the Language proceed out of that which was confounded: and was that confounded out of that which the Languages proceeded: or did the Languages proceed out of the fleſh of Chriſt: are they that be in the fleſh of Chriſt redeemed out of Languages; yea or nay?</p>
+            <p n="73">73. Hath not a Beaſt out of the Sea, the Earth, and the woman, the mother of the Harlots, which hath all riſen ſince the days of the Apoſtles, proceeded from one ground and root: yea or nay?</p>
+            <p n="74">74. And whether or no this hath not been it that hath perſecuted and oppreſſed, and ſlain the juſt: whether this be not the ſame as was ſince the beginning of the world: yea or nay?</p>
+            <p n="75">75. And whether ever the juſt did ſlay the juſt, or perſecute the righteous, or oppreſs it: anſwer, let the juſt that ſatisfies many, but the contrary doth not ſatisfie many, but is to be bruiſed with the juſt:</p>
+            <p n="76">76. Whether or no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there is not the Rock, and the ſtony heart, fire and water: and whether or no fire will not ſtrike out of the Rock and ſtone, and kindle in the Elementaries, and ſet on fire the courſe of nature: and then whether or no the unrulineſs doth not riſe there: yea or nay?</p>
+            <p n="77">77. And how is this Rock and Stone bred, in which there is fire and water, if the former Queries be by you granted: and what is the ground of that which changeth the tempers of bodies: and what is that which brings in the deſeaſed ſtate, and cauſes the pains: in what is men and people li<g ref="char:EOLhyphen"/>ving in while they are in that ſtate?</p>
+            <pb n="15" facs="tcp:114730:8"/>
+            <p n="78">78. Whether or no, while the Rock and ſtony heart is not removed, the garment that be old be not on it: and whether or no this is not it that is ſpeechleſs at the voice of Chriſt; and whether or no the Talent be not there hid: where there is ſpeechleſs at the voice of Chriſt.</p>
+            <p n="79">79. What is the old man that ſhall dream Dreams: and how many ſorts of Dreams are there in the natural; is there true Dreams; is there living Dreams: and from whence have each of theſe their ground; ſhew each their operation, and the cauſe of each, every one in their place, diſtinct one from the other; then ſpeak to the thing, and you will ſpeak ſomething to the purpoſe: and what is the cauſe of all Dreams?</p>
+            <p n="80">80. And Chriſt ſaith, <hi>Ile put my ſheep forth:</hi> what is that there put forth of: and what is the bottomleſs pit; and where is it to be ſeen, and in what place; and where is Hell, ſeeing the Prophets and holy men of God that gave forth Scripture, often ſpoke of it: Now if you have the wiſdom of God declare it, where it is, and how it may be ſhuned, and where people may ſee it, and whether or no all writings and ſpeakings forth of Scripture, is not to this end; if not to this end, that the end of them might be enjoyed:</p>
+            <p n="81">81. Whether or no any doth witneſs ſanctification or re<g ref="char:EOLhyphen"/>demption, but who witneſs that eye that ſees before the world was:</p>
+            <p n="82">82. Whether any know the Reſurrection of the juſt, and unjuſt, but who owns the light that doth enlighten every one that cometh into the world; whether you do own that to be the true Chriſt that doth enlighten man that cometh into the world: and whether or no that Chriſt doth enlighten every man that cometh into the world; yea or nay:</p>
+            <p n="83">83, Had the Serpent a beginning, if you ſay he had: whence had he it; and are not all people being in him, in ſin: Can any worſhip God differing from the Devils worſhip, but who are in the truth, the Devil is out of: and muſt not all they that worſhip God in the ſpirit, and in the truth, be
+<pb n="16" facs="tcp:114730:9"/>in that the Devil is out of; and is there any ſin or unrighte<g ref="char:EOLhyphen"/>ouſneſs in the truth:
+<q>Man ſhall blaſpheme becauſe of the Plague and vehe<g ref="char:EOLhyphen"/>ment heat.</q>
+            </p>
+            <p n="84">84, What is man gone from that there is not unity, that he pains, and is ſore, and is corrupt; and into what part doth the Plague and heat enter into man: into that part that is out of unity, yea or nay:</p>
+            <p n="85">85. And is there tranſgreſſion in the fleſh before the Plague, hear, healing, entreth: and is not this fleſh above the ſeed, and muſt not this be known, and the fleſh of Chriſt, before healing is known; yea or nay:</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>In Page 6. line 1. read diſeaſed Eſtate unfortunate.</p>
+         </div>
+         <trailer>The End.</trailer>
+      </back>
+   </text>
+</TEI>
